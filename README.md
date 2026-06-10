@@ -4,10 +4,9 @@ Security Researcher & Tool Developer
 
 ## Areas of Interest
 
-- API Security
-- Bug Bounty
-- Security Automation
-- Reconnaissance
+- SOC Analysis
+-  Blue Team Operations
+-  Security Automation
 
 ## Technologies
 
