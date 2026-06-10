@@ -1,16 +1,22 @@
-## Hi there 👋
+# João Souza
 
-<!--
-**JoaoSouza2002/JoaoSouza2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security Researcher & Tool Developer
 
-Here are some ideas to get you started:
+## Areas of Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- API Security
+- Bug Bounty
+- Security Automation
+- Reconnaissance
+
+## Technologies
+
+- Python
+- FastAPI
+- Linux
+- Git
+- Burp Suite
+
+## Current Goal
+
+Finding my first valid bug bounty report.
